@@ -22,19 +22,20 @@ It helps to create dropdown textfield;
 
 dynamic selected_value;
 
+
+```dart
  SimpleDropdown(
-    hintText:Text('hello',style: Theme.of(context).textTheme.headline3?.copyWith(),),
+    hintText:Text('hello',
+    style: Theme.of(context).headline3),
     options: [a,b,c]
     value: selected_value,
     onChanged: (value){
-    setState(() {
-        selected_value = value;
-    });
+        setState(() {
+            selected_value = value;
+        });
     },
     getLabel: (value){
     return value.toString();
     },
 ),
-
-
-
+```
