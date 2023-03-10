@@ -1,7 +1,7 @@
 name: simple_dropdown
 description: A simple dropdown textfield.
 version: 0.0.1
-repository:
+repository: https://github.com/sachindra01/simple_dropdown
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
