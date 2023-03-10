@@ -15,7 +15,7 @@ A simple pulgin to create dropdown textfield.
 
 ## Features
 
-It helps to create dropdown textfield;
+To create dropdown textfield.
 
 
 ## How to use.
@@ -24,7 +24,7 @@ dynamic selected_value;
 
 
 ```dart
- SimpleDropdown(
+SimpleDropdown(
     hintText:Text('hello',
     style: Theme.of(context).headline3),
     options: [a,b,c]
