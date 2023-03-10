@@ -2,3 +2,7 @@
 
 initial version released
 
+## 0.0.2
+  updated version
+
+
