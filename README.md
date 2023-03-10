@@ -17,10 +17,6 @@ A simple pulgin to create dropdown textfield.
 
 It helps to create dropdown textfield;
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
 ## How to use.
 
@@ -41,8 +37,4 @@ dynamic selected_value;
 ),
 
 
-## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
